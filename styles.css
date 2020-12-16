@@ -1,0 +1,12 @@
+body{
+background-color: #b2fffb;
+background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+}
+
+h1 {
+font-family: Helvetica, sans-serif; 
+text-align: center;
+padding: 2%;
+font-size: 50px;   
+color: rgb(81, 81, 90);
+}
